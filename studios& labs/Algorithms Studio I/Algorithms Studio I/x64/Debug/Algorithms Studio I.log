@@ -1,0 +1,5 @@
+﻿  Algorithms Studio I.cpp
+\\warehouse2.seasad.wustl.edu\home\wushuo\my documents\visual studio 2015\projects\algorithms studio i\algorithms studio i\algorithms studio i.cpp(91): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+\\warehouse2.seasad.wustl.edu\home\wushuo\my documents\visual studio 2015\projects\algorithms studio i\algorithms studio i\algorithms studio i.cpp(104): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  Algorithms Studio I.vcxproj -> \\warehouse2.seasad.wustl.edu\home\wushuo\My Documents\Visual Studio 2015\Projects\Algorithms Studio I\x64\Debug\Algorithms Studio I.exe
+  Algorithms Studio I.vcxproj -> \\warehouse2.seasad.wustl.edu\home\wushuo\My Documents\Visual Studio 2015\Projects\Algorithms Studio I\x64\Debug\Algorithms Studio I.pdb (Full PDB)

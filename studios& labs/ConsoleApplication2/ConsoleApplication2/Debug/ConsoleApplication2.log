@@ -1,0 +1,8 @@
+﻿  ConsoleApplication2.cpp
+\\warehouse2.seasad.wustl.edu\home\wushuo\my documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+\\warehouse2.seasad.wustl.edu\home\wushuo\my documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+\\warehouse2.seasad.wustl.edu\home\wushuo\my documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+\\warehouse2.seasad.wustl.edu\home\wushuo\my documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+\\warehouse2.seasad.wustl.edu\home\wushuo\my documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(69): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication2.vcxproj -> \\warehouse2.seasad.wustl.edu\home\wushuo\My Documents\Visual Studio 2015\Projects\ConsoleApplication2\Debug\ConsoleApplication2.exe
+  ConsoleApplication2.vcxproj -> \\warehouse2.seasad.wustl.edu\home\wushuo\My Documents\Visual Studio 2015\Projects\ConsoleApplication2\Debug\ConsoleApplication2.pdb (Full PDB)

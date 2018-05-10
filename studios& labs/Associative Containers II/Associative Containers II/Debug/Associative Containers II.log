@@ -1,0 +1,2 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(356,5): error MSB6003: The specified task executable "CL.exe" could not be run. There is not enough space on the disk.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(356,5): error MSB6003: 

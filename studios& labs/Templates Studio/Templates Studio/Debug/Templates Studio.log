@@ -1,0 +1,8 @@
+﻿  Templates Studio.cpp
+\\warehouse2.seasad.wustl.edu\home\wushuo\my documents\visual studio 2015\projects\templates studio\templates studio\templates studio.cpp(37): warning C4305: 'initializing': truncation from 'int' to 'char'
+\\warehouse2.seasad.wustl.edu\home\wushuo\my documents\visual studio 2015\projects\templates studio\templates studio\templates studio.cpp(37): warning C4309: 'initializing': truncation of constant value
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  new.h
+  Templates Studio.vcxproj -> \\warehouse2.seasad.wustl.edu\home\wushuo\My Documents\Visual Studio 2015\Projects\Templates Studio\Debug\Templates Studio.exe
+  Templates Studio.vcxproj -> \\warehouse2.seasad.wustl.edu\home\wushuo\My Documents\Visual Studio 2015\Projects\Templates Studio\Debug\Templates Studio.pdb (Full PDB)

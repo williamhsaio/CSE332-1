@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>\\warehouse2.seasad.wustl.edu\home\wushuo\my documents\visual studio 2015\projects\lab1\lab1\</FILEPATH>
+      <FILENAME>card.cpp</FILENAME>
+      <LINE>360</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>6246</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'i' hides declaration of the same name in outer scope. For additional information, see previous declaration at line '243' of '\\warehouse2.seasad.wustl.edu\home\wushuo\my documents\visual studio 2015\projects\lab1\lab1\card.cpp'.</DESCRIPTION>
+    <FUNCTION>parse_card</FUNCTION>
+    <DECORATED>?parse_card@@YAHAAV?$vector@Ucard@@V?$allocator@Ucard@@@std@@@std@@PAD@Z</DECORATED>
+    <FUNCLINE>229</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>\\warehouse2.seasad.wustl.edu\home\wushuo\my documents\visual studio 2015\projects\lab1\lab1\</FILEPATH>
+        <FILENAME>card.cpp</FILENAME>
+        <LINE>243</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+</DEFECTS>
